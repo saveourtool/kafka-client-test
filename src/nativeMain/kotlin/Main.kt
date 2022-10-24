@@ -2,8 +2,6 @@
  * Example of producer and consumer in subproject
  */
 
-package com.icemachined
-
 import com.icemachined.kafka.clients.CommonConfigNames
 import com.icemachined.kafka.clients.consumer.ConsumerConfig
 import com.icemachined.kafka.clients.consumer.ConsumerConfigNames
